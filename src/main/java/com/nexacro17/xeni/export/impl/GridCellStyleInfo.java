@@ -23,7 +23,7 @@ import org.apache.poixeni.ss.usermodel.Workbook;
 import org.apache.poixeni.xssf.usermodel.XSSFCellStyle;
 import org.apache.poixeni.xssf.usermodel.XSSFColor;
 import org.apache.poixeni.xssf.usermodel.XSSFFont;
-import org.openxmlformats.schemas.spreadsheetml.x2006.main.CTFont;
+import org.openxmlformats.schemasxeni.spreadsheetml.x2006.main.CTFont;
 
 public class GridCellStyleInfo {
    private String sErrMessage = "";

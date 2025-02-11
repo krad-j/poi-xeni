@@ -22,9 +22,9 @@ import org.apache.poixeni.xssf.model.StylesTable;
 import org.apache.poixeni.xssf.model.ThemesTable;
 import org.apache.poixeni.xssf.usermodel.XSSFRelation;
 import org.apache.xmlbeansxeni.XmlException;
-import org.openxmlformats.schemas.spreadsheetml.x2006.main.CTSheet;
-import org.openxmlformats.schemas.spreadsheetml.x2006.main.CTWorkbook;
-import org.openxmlformats.schemas.spreadsheetml.x2006.main.WorkbookDocument.Factory;
+import org.openxmlformats.schemasxeni.spreadsheetml.x2006.main.CTSheet;
+import org.openxmlformats.schemasxeni.spreadsheetml.x2006.main.CTWorkbook;
+import org.openxmlformats.schemasxeni.spreadsheetml.x2006.main.WorkbookDocument.Factory;
 
 public class XeniXSSFReader extends XSSFReader {
    private OPCPackage pkg;
